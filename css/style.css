@@ -213,3 +213,18 @@ body{
   justify-content: center;
   align-items: center;
 }
+
+.online__img {
+  padding-bottom: 50px;
+
+}
+
+.online__mini__title {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 48px;
+  text-align: center;
+  width: 252px;
+}
