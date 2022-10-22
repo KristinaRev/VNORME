@@ -8,7 +8,7 @@
   /* Дополнительный текст (для заголовков) */
   --text-font: 'PT_SansRegular';
   /* Дополнительный жирный текст */
-  --text--bold-font: 'PT_SansBold';
+  --text-bold-font: 'PT_SansBold';
 
   --btn-color: #FBBF24;
 }
@@ -50,6 +50,7 @@ body{
 .post__subtitle{
   font-size: 40px;
   margin-bottom: 50px;
+  line-height: 70px;
 }
 
 .post__btn{
