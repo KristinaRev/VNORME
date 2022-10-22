@@ -1,0 +1,35 @@
+@font-face {
+	font-family: 'InterRegular';
+    src: url('../fonts/Inter/Inter-Regular.woff2') format('woff2'),
+         url('../fonts/Inter/Inter-Regular.woff') format('woff'),
+         url('../fonts/Inter/Inter-Regular.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+	font-family: 'InterBold';
+    src: url('../fonts/Inter/Inter-Bold.woff2') format('woff2'),
+         url('../fonts/Inter/Inter-Bold.woff') format('woff'),
+         url('../fonts/Inter/Inter-Bold.otf') format('otf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+	font-family: 'PT_SansRegular';
+    src: url('../fonts/PT_Sans/PT_Sans-Web-Regular.woff2') format('woff2'),
+         url('../fonts/PT_Sans/PT_Sans-Web-Regular.woff') format('woff'),
+         url('../fonts/PT_Sans/PT_Sans-Web-Regular.ttf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+	font-family: 'PT_SansBold';
+    src: url('../fonts/PT_Sans/PT_Sans-Web-Bold.woff2') format('woff2'),
+         url('../fonts/PT_Sans/PT_Sans-Web-Bold.woff') format('woff'),
+         url('../fonts/PT_Sans/PT_Sans-Web-Bold.ttf') format('otf');
+    font-weight: 700;
+    font-style: normal;
+}
