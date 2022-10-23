@@ -252,6 +252,7 @@ body{
   flex-direction: row;
   justify-content: space-between;
   align-items: flex-start;
+  padding-top: 100px;
 }
 
 .nav__item{
@@ -309,8 +310,10 @@ body{
 }
 
 .online__img {
-  padding-bottom: 50px;
-
+  border-radius: 67px;
+  overflow: hidden;
+  width: 252px;
+  height: 252px;
 }
 
 .online__mini__title {
